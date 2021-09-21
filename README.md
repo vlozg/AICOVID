@@ -38,10 +38,10 @@ Do tài nguyên cá nhân có hạn (laptop với GPU max-Q) nên mình chọn s
 
 ---
 # Tham khảo
-[1]. Laguarta, Jordi, "COVID-19 Artificial Intelligence Diagnosis Using Only Cough Recordings." IEEE Open Journal of Engineering in Medicine and Biology 1 (September 2020): 275 - 281. [[Link](https://dspace.mit.edu/bitstream/handle/1721.1/128954/09208795.pdf?sequence=1&isAllowed=y)]
+[1]. Laguarta, Jordi, ["COVID-19 Artificial Intelligence Diagnosis Using Only Cough Recordings."](https://dspace.mit.edu/bitstream/handle/1721.1/128954/09208795.pdf?sequence=1&isAllowed=y), <i>IEEE Open Journal of Engineering in Medicine and Biology 1</i> (September 2020): 275 - 281.
 
-[2]. Gong, Y., Chung, Y.-A., and Glass, J., “[AST: Audio Spectrogram Transformer](https://arxiv.org/abs/2104.01778)”, <i>arXiv e-prints</i>, 2021.
+[2]. Gong, Y., Chung, Y.-A., and Glass, J., ["AST: Audio Spectrogram Transformer"](https://arxiv.org/abs/2104.01778), <i>arXiv e-prints</i>, 2021.
 
-[3]. He, K., Zhang, X., Ren, S., and Sun, J., “[Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)”, <i>arXiv e-prints</i>, 2015.
+[3]. He, K., Zhang, X., Ren, S., and Sun, J., ["Deep Residual Learning for Image Recognition"](https://arxiv.org/abs/1512.03385), <i>arXiv e-prints</i>, 2015.
 
-[4]. Kranthi Kumar Lella and Alphonse Pja (2021), "Automatic diagnosis of COVID-19 disease using deep convolutional neural network with multi-feature channel from respiratory sound data: Cough, voice, and breath", access via: https://www.sciencedirect.com/science/article/pii/S1110016821003859
+[4]. Kranthi Kumar Lella and Alphonse Pja, ["Automatic diagnosis of COVID-19 disease using deep convolutional neural network with multi-feature channel from respiratory sound data: Cough, voice, and breath"](https://www.sciencedirect.com/science/article/pii/S1110016821003859), <i>Alexandria Engineering Journal</i>, 2021.
